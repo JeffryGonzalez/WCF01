@@ -4,8 +4,10 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.ServiceModel;
 using System.Text;
 using System.Windows.Forms;
+using CalculatorContracts;
 
 namespace Calculator
 {
@@ -27,6 +29,14 @@ namespace Calculator
 			foreach (var button in buttons.Keys)
 				button.Click += (b, e) => MessageBox.Show(buttons[(Button) b](txtNum1.Text, txtNum2.Text));
 			
+		}
+
+		
+
+		private void Form1_Load(object sender, EventArgs e)
+		{
+
+
 		}
 
 
