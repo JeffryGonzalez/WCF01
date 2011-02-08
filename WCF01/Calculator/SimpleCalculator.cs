@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using CalculatorContracts;
 
 namespace Calculator
 {
-	public class SimpleCalculator
+	public class SimpleCalculator : ICalculator
 	{
 		public string Add(string arg1, string arg2)
 		{
