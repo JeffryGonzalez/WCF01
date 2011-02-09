@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="69b3390a-0921-48d8-98f5-5f55c7ee3d39" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/Calculator/MEX" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SimpleCalculator.wsdl" MetadataType="Wsdl" ID="4d929f43-a303-4ea5-99eb-bbb33e0ecc4e" SourceId="1" SourceUrl="http://localhost:8080/Calculator/MEX" />
+    <MetadataFile FileName="MEX.xsd" MetadataType="Schema" ID="1fb36822-1258-43c4-9592-d988bce38ea3" SourceId="1" SourceUrl="http://localhost:8080/Calculator/MEX?xsd=xsd1" />
+    <MetadataFile FileName="MEX1.xsd" MetadataType="Schema" ID="40452e83-c2a0-4506-9988-0dc982375cf6" SourceId="1" SourceUrl="http://localhost:8080/Calculator/MEX?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
