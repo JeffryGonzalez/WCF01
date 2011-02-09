@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="06307AB5-7D96-4F13-9E92-66189397EC1C" ModuleId="CalculatorContracts" />
+  <Module PersistentId="38CAF927-57AD-4F09-9CC3-C8D8E2ABAE13" ModuleId="Calculator" />
+  <Module PersistentId="0C3CFA89-425B-4D01-9403-1051930C8733" ModuleId="Client" />
+  <Module PersistentId="97667C97-22C0-4465-9F46-3332A4C779C7" ModuleId="Client2" />
+</Modules>

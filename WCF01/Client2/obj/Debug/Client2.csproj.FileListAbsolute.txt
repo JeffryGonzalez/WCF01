@@ -1,0 +1,9 @@
+C:\dev\WCF\WCF01\Client2\bin\Debug\Client2.exe
+C:\dev\WCF\WCF01\Client2\bin\Debug\Client2.pdb
+C:\dev\WCF\WCF01\Client2\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\WCF\WCF01\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\dev\WCF\WCF01\Client2\obj\Debug\Client2.csproj.GenerateResource.Cache
+C:\dev\WCF\WCF01\Client2\obj\Debug\Client2.exe
+C:\dev\WCF\WCF01\Client2\obj\Debug\Client2.pdb
+C:\dev\WCF\WCF01\Client2\bin\Debug\Client2.exe.config
+C:\dev\WCF\WCF01\Client2\obj\Debug\Client2.Form1.resources

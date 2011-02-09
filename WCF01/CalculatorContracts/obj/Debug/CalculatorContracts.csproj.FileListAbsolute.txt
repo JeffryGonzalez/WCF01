@@ -1,0 +1,5 @@
+C:\dev\WCF\WCF01\CalculatorContracts\bin\Debug\CalculatorContracts.dll
+C:\dev\WCF\WCF01\CalculatorContracts\bin\Debug\CalculatorContracts.pdb
+C:\dev\WCF\WCF01\CalculatorContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\WCF\WCF01\CalculatorContracts\obj\Debug\CalculatorContracts.dll
+C:\dev\WCF\WCF01\CalculatorContracts\obj\Debug\CalculatorContracts.pdb

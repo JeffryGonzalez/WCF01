@@ -1,0 +1,11 @@
+C:\dev\WCF\WCF01\Client\bin\Debug\Client.exe
+C:\dev\WCF\WCF01\Client\bin\Debug\Client.pdb
+C:\dev\WCF\WCF01\Client\bin\Debug\CalculatorContracts.dll
+C:\dev\WCF\WCF01\Client\bin\Debug\CalculatorContracts.pdb
+C:\dev\WCF\WCF01\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\WCF\WCF01\Client\obj\Debug\Client.Form1.resources
+C:\dev\WCF\WCF01\Client\obj\Debug\Client.Properties.Resources.resources
+C:\dev\WCF\WCF01\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\dev\WCF\WCF01\Client\obj\Debug\Client.exe
+C:\dev\WCF\WCF01\Client\obj\Debug\Client.pdb
+C:\dev\WCF\WCF01\Client\bin\Debug\Client.exe.config
