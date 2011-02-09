@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSite", "VideoSite\VideoSite.csproj", "{2A831C76-C23D-401A-85AE-2DB92D467335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore.Domain", "VideoStore.Domain\VideoStore.Domain.csproj", "{82093F15-652F-425D-A520-102F705D3B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore.Contracts", "VideoStore.Contracts\VideoStore.Contracts.csproj", "{9BC37B4C-4A83-4C09-A32A-ADE3D40F014B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A831C76-C23D-401A-85AE-2DB92D467335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A831C76-C23D-401A-85AE-2DB92D467335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A831C76-C23D-401A-85AE-2DB92D467335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A831C76-C23D-401A-85AE-2DB92D467335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82093F15-652F-425D-A520-102F705D3B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82093F15-652F-425D-A520-102F705D3B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82093F15-652F-425D-A520-102F705D3B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82093F15-652F-425D-A520-102F705D3B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC37B4C-4A83-4C09-A32A-ADE3D40F014B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC37B4C-4A83-4C09-A32A-ADE3D40F014B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC37B4C-4A83-4C09-A32A-ADE3D40F014B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC37B4C-4A83-4C09-A32A-ADE3D40F014B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
